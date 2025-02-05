@@ -1,14 +1,14 @@
-Meal Prep Digital Assistant
+# Meal Prep Digital Assistant
 
 Reduce the stress of making family dinners, eat better food, and cut your grocery bill with a meal prep routine aided by a digital assistant.
 
-# Overview
+## Overview
 If you are a working parent cooking for your family, you know the stress of figuring out what is for dinner. What should I make tonight? Do I have the ingredients? Do I have to run to the closest grocery store to get what I am missing? Will it taste ok? Will the kids eat it?
 
 A better way to make family dinners is to bulk prep meals on the weekend and heat the meals right before dinner every plan. So, you plan, shop, and cook once.
 
 
-# Digital Assistant
+## Digital Assistant App
 
 This digital assistant is your weekly meal prep co-pilot. It has a bank of recipes for you to choose from. It can help select meals for each day. It can compile a grocery list for you. It can give cooking instructions while you prep and heating instructions on weekdays.
 
