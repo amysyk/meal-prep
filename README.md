@@ -20,6 +20,8 @@ This digital assistant is your weekly meal prep co-pilot. It has a bank of recip
 
 <img width="881" alt="image" src="https://github.com/user-attachments/assets/cd31c4f7-afb4-4a8d-b9a3-c6565b25a722" />
 
+<img width="817" alt="image" src="https://github.com/user-attachments/assets/73cf88fa-23e1-4cde-90fc-30014a24beab" />
+
 
 
 ## How It Works
