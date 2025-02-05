@@ -116,10 +116,10 @@ Potatoes
 INGREDIENTS :
 – Chicken Fajitas
 – Potatoes  (half)
-– optional pico de gallo
-Additional Ingredients:
--Olive oil
--Salt and pepperDIRECTIONS :
+– Pico de gallo (optional)
+- Olive oil
+- Salt and pepper
+DIRECTIONS :
 Heat the chicken and pepper (covered) in a 300°F oven for 35 minutes or
 until completely heated through. Alternatively you can pan sear it in a
 frying pan until hot. Meanwhile using half of the potatoes from Sunday, cut
