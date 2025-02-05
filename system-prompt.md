@@ -131,7 +131,7 @@ with optional pico de gallo and fresh limes!
 
 When asked to return rally instructions for Chicken Fajitas, return them in the following format:
 
-### Chicken Fajitas with Smash Fried Potatoes
+Chicken Fajitas with Smash Fried Potatoes
 4 SERVINGS
 
 INGREDIENTS:
