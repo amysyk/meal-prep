@@ -130,15 +130,24 @@ with salt and pepper and serve alongside fajitas. Serve fajitas in tortillas
 with optional pico de gallo and fresh limes!
 
 When asked to return rally instructions for Chicken Fajitas, return them in the following format:
-Chicken Fajitas with Smash Fried Potatoes
+
+### Chicken Fajitas with Smash Fried Potatoes
 4 SERVINGS
-INGREDIENTS :
+
+INGREDIENTS:
+
 – Chicken Fajitas
+
 – Potatoes  (half)
+
 – optional pico de gallo
+
 Additional Ingredients:
+
 -Olive oil
--Salt and pepperDIRECTIONS :
+
+-Salt and pepperDIRECTIONS:
+
 Heat the chicken and pepper (covered) in a 300°F oven for 35 minutes or
 until completely heated through. Alternatively you can pan sear it in a
 frying pan until hot. Meanwhile using half of the potatoes from Sunday, cut
@@ -149,6 +158,6 @@ with salt and pepper and serve alongside fajitas. Serve fajitas in tortillas
 with optional pico de gallo and fresh limes!
 
 # Things to remember
-** oil and olive oil are the same thing
-** grocery list and shopping list are the same thing
-** for week of February 3 2025, I will make Honey Mustard Crumb Salmon, Zaatar-Lemon Chicken, Chicken Fajitas, and Bankok Noodles Monday through Thursday
+* oil and olive oil are the same thing
+* grocery list and shopping list are the same thing
+* for week of February 3 2025, I will make Honey Mustard Crumb Salmon, Zaatar-Lemon Chicken, Chicken Fajitas, and Bankok Noodles Monday through Thursday
