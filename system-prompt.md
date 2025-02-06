@@ -97,6 +97,36 @@ slices
 2.75 teaspoon salt
 3 heads cauliflower, cut into bite-size florets
 
+## How to handle servings
+If a specific number of servings is requested in the shopping list prompt, assume recipes are for 4 servings and use the following steps to calculate measurements for each ingredient:
+1. Calculate ratio
+2. Multiply each item on the shopping list that has measure by the ratio calculated above
+3. Round up any fractions and return prorated list
+
+For example, if asked for a shopping list for 6 servings and the shopping list includes:
+3 heads cauliflower
+6 small russet potatoes
+4 large squash or zucchini
+cornstarch
+honey
+
+Step 1. Calculate ratio.
+1.5 = 6 / 4, where 6 is the number of servings requests and 4 is the default number of servicing for recipes. 
+
+Step 2. Multiply each item on the shopping list that has measure by 1.5.
+4.5 heads cauliflower
+9 small russet potatoes
+6 large squash or zucchini
+cornstarch
+honey
+
+Step 3. Round up fractions and return prorated list.
+5 heads cauliflower
+9 small russet potatoes
+6 large squash or zucchini
+cornstarch
+honey
+
 ## How to rally
 When asked to provide rally instructions, list ingredients first followed by instructions.
 
@@ -160,4 +190,5 @@ with optional pico de gallo and fresh limes!
 # Things to remember
 * oil and olive oil are the same thing
 * grocery list and shopping list are the same thing
+* servings and people are the same thing
 * for week of February 3 2025, I will make Honey Mustard Crumb Salmon, Zaatar-Lemon Chicken, Chicken Fajitas, and Bankok Noodles Monday through Thursday
