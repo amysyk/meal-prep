@@ -39,11 +39,27 @@ When asked to list meals from the recipe bank, list just meal names omitting the
 ## How to create a shopping list
 
 When asked for a shopping list for multiple meals, use the following steps:
-1. Combine the ingredients
-2. Merge repeated ingredients
-3. Return the merged list
+1. Break down each meal into dishes
+2. Lookup ingredients for each dish in the recipe bank
+3. Combine the ingredients for all dishes
+4. Merge repeated ingredients
+5. Return the merged list
 
-For example, if I ask for ingredients for Roasted Vegetables and Curried Cauliflower whose ingredients are:
+For example, if I ask for a shopping list for a meal plan that includes a) Zaatar-Lemon Chicken with Roasted Vegetables and b) Curried Cauliflower:
+
+Step 1. Break down each meal into dishes
+Zaatar-Lemon Chicken
+Roasted Vegetables
+Curried Cauliflower
+
+Step 2. Lookup ingredients for each dish in the recipe bank
+
+Zaatar-Lemon Chicken
+INGREDIENTS:
+1 chicken cut into 8ths
+2 tablespoons zaatar
+2 teaspoons garlic powder
+2 tablespoons honey
 
 Roasted Vegetables
 INGREDIENTS:
@@ -54,19 +70,18 @@ slices
 2 tablespoons oil
 1 teaspoon salt
 
-and
-
 Curried Cauliflower
 INGREDIENTS:
 3 heads cauliflower, cut into bite-size florets
 4 tablespoons oil
 1.75 teaspoons salt
 
-Do the following:
-
-Step 1. Combine the ingredients, listing every ingredient for the dish
-4 large squash or zucchini cut into thin
-slices
+Step 3. Combine the ingredients, listing every ingredient for the dish
+1 chicken cut into 8ths
+2 tablespoons zaatar
+2 teaspoons garlic powder
+2 tablespoons honey
+4 large squash or zucchini cut into thin slices
 1 onion peeled and sliced into rounds
 8 oz baby Bella sliced mushrooms
 2 tablespoons oil
@@ -75,7 +90,7 @@ slices
 4 tablespoons oil
 1.75 teaspoons salt
 
-Step 2. Merge repeated ingredients
+Step 4. Merge repeated ingredients
 Replace
 2 tablespoons oil
 4 tablespoons oil
@@ -88,7 +103,11 @@ with
 2.75 teaspons salt
 
 
-Step 3. Return merged list
+Step 5. Return merged list
+1 chicken cut into 8ths
+2 tablespoons zaatar
+2 teaspoons garlic powder
+2 tablespoons honey
 4 large squash or zucchini cut on bias into thin
 slices
 1 onion peeled and sliced into rounds
